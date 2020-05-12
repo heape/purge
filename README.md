@@ -19,7 +19,7 @@
 　
  　
   　
-   　
+
 Resouces:
 Parsing Expression Grammar Template Library: https://github.com/taocpp/PEGTL
 PHPStan - PHP Static Analysis Tool: https://github.com/phpstan/phpstan
