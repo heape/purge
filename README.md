@@ -15,3 +15,11 @@
 人的ミスで脆弱性を生み出すことを避けるためのもので、機械学習を使い、HackerOne、Bugzillaなどから、レポートを集めて、分析し、判断します。
 
 字句分析と構文解析も使用します。
+
+　
+ 　
+  　
+   　
+Resouces:
+Parsing Expression Grammar Template Library: https://github.com/taocpp/PEGTL
+PHPStan - PHP Static Analysis Tool: https://github.com/phpstan/phpstan
